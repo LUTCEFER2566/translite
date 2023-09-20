@@ -1,18 +1,5 @@
 from random import randint
 
-# with open(filename) as file:
-#     sozlar = file.readlines()
-# sozlar = [soz.rstrip() for soz in sozlar]
-
-# with open(filename) as file:
-#     sozlar = file.readlines()
-# sozlar = [soz.rstrip() for soz in sozlar]
-
-# with open('filesoz.txt','a') as fayl:
-#     fayl.write(soz+'\n')
-# with open('fileword.txt','a') as fayl:
-#     fayl.write(soz+'\n')
-
 def addsoz():
     while True:
         soz = input("uz>>>")
